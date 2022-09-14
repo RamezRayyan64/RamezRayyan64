@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ramez A. Rayyan</h1>
 <h3 align="center">A mobile app developer from Afghanistan</h3>
 
